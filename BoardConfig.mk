@@ -73,7 +73,7 @@ EXTENDED_FONT_FOOTPRINT := true
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/nvidia/s8515
 TARGET_KERNEL_CONFIG := tegra_s8515_android_defconfig
-BOARD_KERNEL_CMDLINE := "androidboot.selinux=permissive"
+BOARD_KERNEL_CMDLINE := "androidboot.selinux=disabled"
 
 TARGET_USERIMAGES_USE_EXT4 := true
 BOARD_USERDATAIMAGE_PARTITION_SIZE  := 2145386496
