@@ -135,7 +135,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Bluetooth
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/bluetooth/bt_vendor.conf:system/etc/bluetooth/bt_vendor.conf
-    $(LOCAL_PATH)/bluetooth/bt_vendor.conf:etc/bluetooth/bt_vendor.conf
 
 # WIFISKAYA
 PRODUCT_PACKAGES += \
