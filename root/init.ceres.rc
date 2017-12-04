@@ -101,10 +101,6 @@ on boot
     # change back to bluetooth from system
     chown bluetooth net_bt_stack /data/misc/bluetooth
 
-    # UART device
-    chmod 0660 /dev/ttyHS2
-    chown bluetooth net_bt_stack /dev/ttyHS2
-
     # power up/down interface
     chmod 0660 /sys/class/rfkill/rfkill0/state
     chmod 0660 /sys/class/rfkill/rfkill0/type
