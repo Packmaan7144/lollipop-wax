@@ -17,6 +17,7 @@
 */
       Bluetooth file transfer
       -->
+<device name="Android">
   <item name="bluetooth.active">20</item>
   <item name="bluetooth.on">1.6</item>
   <item name="wifi.on">3.3</item>
