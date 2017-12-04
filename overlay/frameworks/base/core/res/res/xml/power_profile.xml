@@ -17,6 +17,7 @@
 */
       Bluetooth file transfer
       -->
+  <item name="bluetooth.active">20</item>
   <item name="bluetooth.on">1.6</item>
   <item name="wifi.on">3.3</item>
   <item name="wifi.active">46.5</item>
