@@ -103,7 +103,6 @@ lib/egl/libGLESv1_CM_tegra_impl.so
 lib/egl/libGLESv2_tegra.so
 lib/egl/libGLESv2_tegra_impl.so
 
-vendor/lib/libbt-vendor.so
 vendor/firmware/app/modem.wrapped
 vendor/firmware/app/secondary_boot.wrapped
 vendor/firmware/tlv320aic3206_fw_v1.bin
